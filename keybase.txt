@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/petercollins
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://peterc.ollins.me
+  * I am petercollins (https://keybase.io/petercollins) on keybase.
+  * I have a public key ASCRqlDsMJx9stSZY6-hNlCY1CydkxvFnjyy3caJshbHMwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012091aa50ec309c7db2d49963afa1365098d42c9d931bc59e3cb2ddc689b216c7330a",
+      "host": "keybase.io",
+      "kid": "012091aa50ec309c7db2d49963afa1365098d42c9d931bc59e3cb2ddc689b216c7330a",
+      "uid": "6fd7799638a2241fa78eb9b5223f4b19",
+      "username": "petercollins"
+    },
+    "merkle_root": {
+      "ctime": 1578174853,
+      "hash": "7679277fbd11e64250c11b36bbaaccab3fa2dde1be3c9b073c35d7e309b5707f69d0c307041bbfee55235dde8de2d927d9c185d56d1a8468c2038f98541de4c6",
+      "hash_meta": "a8dd69f2acfae116eaea1896ecc6c3fa4d4ddafb62d32b2d459dc99fee1679ee",
+      "seqno": 14085583
+    },
+    "service": {
+      "entropy": "KNlWyiQiKp8lyU0JtCdzjgMQ",
+      "hostname": "peterc.ollins.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1578174886,
+  "expire_in": 504576000,
+  "prev": "78de2be31fdf33e9448788b715d85698bc6d7cc529de18184f7a1c3ca9413ad7",
+  "seqno": 32,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgkapQ7DCcfbLUmWOvoTZQmNQsnZMbxZ48st3GibIWxzMKp3BheWxvYWTESpcCIMQgeN4r4x/fM+lEh4i3FdhWmLxtfMUp3hgYT3ocPKlBOtfEIB8iWoT/DgsSqqcBPeHfbqxvZ3Y7FkVZ8fya/7PxCUPDAgHCo3NpZ8RAFEkin4eUETQLbAhxa44sWKT5XcU2edxExbakiCsc+LoqkAPg0FbH58H+yYkcc0t23qDKjFSlLZmDM+idJpBODKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJPfMrNHa2jxUd5qo6QKprKVLYfseDvfsnHL7tigpqxMo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/petercollins
+
+==================================================================

@@ -109,3 +109,13 @@ a {
     color: #FEFEFE;
   }
 }
+
+.bluesky-logo {
+  background-color: #444;
+  -webkit-mask: url(bluesky.svg) no-repeat center;
+  mask: url(bluesky.svg) no-repeat center;
+  mask-size: 1em;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+}
